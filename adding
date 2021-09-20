@@ -1,0 +1,2 @@
+let newNum = Number(prompt("Enter a whole number: "))
+console.log(`If you multiply the second number with the new number you get ${num2 * newNum}`)
